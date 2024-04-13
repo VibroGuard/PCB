@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\GitHub_Projects\VibroGuard\PCB\EDR_MCU_PCB_v1\PCB1.PcbDoc
 Date     : 2024-04-13
-Time     : 3:03:57 PM
+Time     : 3:16:33 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
@@ -10,24 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad C2-2(58.293mm,52.372mm) on Top Layer And Pad R5-1(61.464mm,51.689mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Track (51.17mm,37.55mm)(51.195mm,37.525mm) on Top Layer And Pad C2-2(58.293mm,52.372mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad C3-2(60.579mm,29.972mm) on Top Layer And Pad C4-2(65.58mm,30.099mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Track (50.038mm,28.702mm)(50.277mm,28.941mm) on Top Layer And Pad C3-2(60.579mm,29.972mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetD4_2 Between Pad D4-2(41.529mm,39.469mm) on Top Layer And Pad R9-1(41.529mm,43.049mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad U1-21(72.498mm,58.86mm) on Top Layer And Pad Free-6(92.583mm,60.452mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad J2-1(90.932mm,33.147mm) on Multi-Layer And Pad Free-7(92.456mm,28.448mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad Free-9(28.575mm,28.321mm) on Multi-Layer And Pad Free-8(28.575mm,60.452mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad Free-9(28.575mm,28.321mm) on Multi-Layer And Pad J7-4(50.038mm,28.702mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad SW1-1(85.001mm,42.581mm) on Top Layer And Pad J2-1(90.932mm,33.147mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad U1-5(73.298mm,50.36mm) on Top Layer And Pad R4-1(80.768mm,50.546mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad R5-1(61.464mm,51.689mm) on Top Layer And Pad R6-1(61.464mm,56.896mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad R5-1(61.464mm,51.689mm) on Top Layer And Pad U1-3(71.698mm,50.36mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad SW1-2(77.051mm,42.581mm) on Top Layer And Pad SW1-1(85.001mm,42.581mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad U1-5(73.298mm,50.36mm) on Top Layer And Pad SW1-2(77.051mm,42.581mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad U1-21(72.498mm,58.86mm) on Top Layer And Pad U1-5(73.298mm,50.36mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net CTS Between Pad U1-3(71.698mm,50.36mm) on Top Layer And Pad U1-5(73.298mm,50.36mm) on Top Layer 
-Rule Violations :17
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -69,6 +52,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm)
 Rule Violations :0
 
 
-Violations Detected : 17
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
