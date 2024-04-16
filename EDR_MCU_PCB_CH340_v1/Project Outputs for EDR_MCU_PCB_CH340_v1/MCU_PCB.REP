@@ -2,14 +2,10 @@
 FileName = MCU_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : MCU_PCB.GBP
+Generating : Bottom Overlay
+      File : MCU_PCB.GBO
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -43,10 +39,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : MCU_PCB.GBS
+Generating : Bottom Paste
+      File : MCU_PCB.GBP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -54,19 +50,21 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MCU_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -107,31 +105,8 @@ Used DCodes :
     D43
     D44
     D45
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : MCU_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : MCU_PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
+    D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -144,13 +119,11 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D34
-    D35
-    D39
-    D40
+    D36
+    D37
     D41
-    D46
-    D47
+    D42
+    D43
     D48
     D49
     D50
@@ -158,6 +131,10 @@ Used DCodes :
     D52
     D53
     D54
+    D55
+    D56
+    D57
+    D58
 *************************************************************
 
 *************************************************************
@@ -183,13 +160,11 @@ Used DCodes :
     D25
     D26
     D27
-    D34
-    D35
-    D39
-    D40
+    D36
+    D37
     D41
-    D46
-    D47
+    D42
+    D43
     D48
     D49
     D50
@@ -197,6 +172,39 @@ Used DCodes :
     D52
     D53
     D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MCU_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -205,6 +213,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D55
+    D59
 *************************************************************
 
