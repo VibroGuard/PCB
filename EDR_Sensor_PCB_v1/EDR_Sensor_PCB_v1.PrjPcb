@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JEYDIOIP
 
 [Document2]
-DocumentPath=..\..\..\The-5th-Dimension\Earendel-Pro-Track-Celestial-Tracker-Working\PCB_design\Earendel_Rules_Enabled_V2\Sensor_PCB.PcbDoc
+DocumentPath=Sensor_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
