@@ -1,5 +1,5 @@
-G04:AMPARAMS|DCode=17|XSize=1.31mm|YSize=0.62mm|CornerRadius=0.0775mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=90.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
-%AMROUNDEDRECTD17*
+G04:AMPARAMS|DCode=18|XSize=1.31mm|YSize=0.62mm|CornerRadius=0.0775mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=90.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD18*
 21,1,1.3100,0.4650,0,0,90.0*
 21,1,1.1550,0.6200,0,0,90.0*
 1,1,0.1550,0.2325,0.5775*
