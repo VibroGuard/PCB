@@ -1,0 +1,15 @@
+Net Status Report
+Filename     : D:\VibroGuard\PCB\EDR_Sensor_PCB_v1\Sensor_PCB.PcbDoc
+Date         : 6/17/2024
+Time         : 7:00:15 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +5V, Signal Layers Only, 86.6317mm
+    ADO, Signal Layers Only, 35.5391mm
+    GND, Signal Layers Only, 183.536mm
+    NetD1_1, Signal Layers Only, 6.8204mm
+    NetJ5_1, Signal Layers Only, 17.3299mm
+    SCL, Signal Layers Only, 51.0363mm
+    SDA, Signal Layers Only, 51.0585mm
+count : 7
